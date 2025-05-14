@@ -1,0 +1,1 @@
+[{"host":"10.30.25.68","ip":"10.30.25.68","port":"5000","banner":"","vulnerabilities":[{"id": "0","method":"GET","url":"/","msg":"Unable to connect to 10.30.25.68:5000."}]}]
